@@ -21,6 +21,8 @@ abastecimiento para la reducción del desperdicio de alimentos cárnicos en Colo
 Objetivo Proyecto: Analizar el comportamiento del valor de las donaciones en una empresa del sector cárnico, que depende de variables en su mayoría categóricas. Buscando encontrar patrones que puedan responder a su comportamiento y pueda ser la entrada para la implementación de modelos predictivos.
 
 Este es un primer paso que busca entender la data en su contexto, por medio de limpieza y tranformación. Para posteriormente con la predicción del valor de las donaciones, con la ayuda de la Investigación de Operaciones, crear un modelo que permita simular escenarios futuros y predecir el dinero que está dejando de percibir la empresa al no implementar políticas de alivios fiscales con la donaciones.
+
+
 -------------------------------------------------------------------------------------------------
 Dirigido por:
 Maria Bernarda SALAZAR SANCHEZ
