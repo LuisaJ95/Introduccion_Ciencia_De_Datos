@@ -18,12 +18,18 @@ abastecimiento para la reducción del desperdicio de alimentos cárnicos en Colo
 
 --------------------------------------------------------------------------------------------------
 
-Objetivo Proyecto: Analizar el comportamiento del valor de las donaciones en una empresa del sector cárnico, que depende de variables en su mayoría categóricas. Buscando encontrar patrones que puedan responder a su comportamiento y pueda ser la entrada para la implementación de modelos predictivos.
+Objetivo Proyecto. 
+Analizar el comportamiento del valor de las donaciones en una empresa del sector cárnico, que depende de variables en su mayoría categóricas. Buscando encontrar patrones que puedan responder a su comportamiento y este recurso pueda funcionar como entrada para la implementación de modelos predictivos.
 
-Este es un primer paso que busca entender la data en su contexto, por medio de limpieza y tranformación. Para posteriormente con la predicción del valor de las donaciones, con la ayuda de la Investigación de Operaciones, crear un modelo que permita simular escenarios futuros y predecir el dinero que está dejando de percibir la empresa al no implementar políticas de alivios fiscales con la donaciones.
-
+Este es un primer paso que busca entender la data en su contexto, por medio de herramientas propias de la ciencia de datos. Y posteriormente, con la predicción del valor de las donaciones y con la ayuda de la Investigación de Operaciones, crear un modelo que permita simular escenarios futuros y predecir el dinero que está dejando de percibir la empresa al no implementar políticas de alivios fiscales con la donaciones.
 
 -------------------------------------------------------------------------------------------------
+
+Contexto.
+La data obtenida tiene un histórico desde el año 2022, es una extracción de la data madre de "Desguace", que es toda la trazabilidad de alimentos desguazados (incinerados) por diferentes causas en la compañía. Esta data madre tiene un campo llamado "Tipo de desguace" que tiene tres clasificaciones: "destruccion", "reelaboración" y "donaciones". En vista de que el trabajo está enfocado en las donaciones, en este estudio solo se analiza esta clasificacioón.  
+
+--------------------------------------------------------------------------------------------------
+
 Dirigido por:
 Maria Bernarda SALAZAR SANCHEZ
 Profesora
