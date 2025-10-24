@@ -16,8 +16,12 @@ Incluye los procesos de prácticas en clase de cada tema y el Proyecto de Aula:
 "Análisis exploratorio y procesamiento de data para el Diseño de una cadena de 
 abastecimiento para la reducción del desperdicio de alimentos cárnicos en Colombia, considerando el marco normativo"
 
+--------------------------------------------------------------------------------------------------
+
 Objetivo Proyecto: Analizar el comportamiento del valor de las donaciones en una empresa del sector cárnico, que depende de variables en su mayoría categóricas. Buscando encontrar patrones que puedan responder a su comportamiento y pueda ser la entrada de aplicación de modelos predictivos.
 
+
+-------------------------------------------------------------------------------------------------
 Dirigido por:
 Maria Bernarda SALAZAR SANCHEZ
 Profesora
