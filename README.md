@@ -18,7 +18,7 @@ abastecimiento para la reducción del desperdicio de alimentos cárnicos en Colo
 
 --------------------------------------------------------------------------------------------------
 
-**Contexto Proyecto de Aula.**
+**Contexto Proyecto de Aula**
 
 La problemática de las pérdidas y desperdicios de alimentos (PDA) es crítica a nivel global y nacional, con impactos económicos, sociales y ambientales significativos. En Colombia, se desperdician grandes cantidades de alimentos mientras más de la mitad de la población enfrenta inseguridad alimentaria, generando además emisiones contaminantes y pérdidas económicas del 1,3% del PIB. Las causas son múltiples: desde ineficiencias en la producción, distribución y consumo, hasta vacíos normativos y logísticos. Aunque el país ha avanzado en legislación (Ley 1990 de 2019 y Ley 2380 de 2024), los incentivos fiscales no se corresponden con la limitada capacidad logística, que solo permite recuperar el 12% del potencial alimentario disponible. Esto evidencia la urgencia de transformar la cadena de recuperación alimentaria mediante modelos logísticos más eficientes, coordinados y adaptados al nuevo marco legal.
 
@@ -28,11 +28,28 @@ Para el respectivo análisis, la data obtenida tiene un histórico desde el año
 
 -------------------------------------------------------------------------------------------------
 
-**Objetivo Proyecto de Aula.**
+**Objetivo Proyecto de Aula**
 
 Analizar el comportamiento del valor de las donaciones en una empresa del sector cárnico, identificando patrones asociados a las variables que componen la data histórica desde el 2022, que permitan comprender su dinámica y servir como base para el desarrollo de modelos predictivos.
 
 Este es un primer paso que busca entender la data en su contexto, por medio de herramientas propias de la ciencia de datos. Para posteriormente, con la predicción del valor de las donaciones y con la ayuda de la Investigación de Operaciones, crear un modelo que permita simular escenarios futuros y predecir el dinero que está dejando de percibir la empresa al no implementar políticas de alivios fiscales con la donaciones.
+
+--------------------------------------------------------------------------------------------------
+**Justificación Metodológica**
+
+El enfoque metodológico del proyecto se fundamenta en los principios de la ciencia de datos, orientados al análisis cuantitativo y al descubrimiento de patrones a partir de información estructurada. Se adopta un enfoque cuantitativo de tipo descriptivo y exploratorio, ya que el propósito principal es analizar el comportamiento de las variables contenidas en la base de datos e identificar relaciones o patrones significativos que expliquen el fenómeno de estudio.
+
+Este enfoque permite aplicar herramientas estadísticas, técnicas de limpieza y transformación de datos, así como métodos de visualización y modelado, que facilitan la comprensión objetiva y basada en evidencia del comportamiento de los datos.
+
+Además, al tratarse de un proyecto en el marco de Fundamentos de Ciencia de Datos, este enfoque resulta pertinente porque favorece el desarrollo de competencias analíticas y metodológicas en la manipulación de datos, la formulación de hipótesis, la validación empírica de resultados y la interpretación de hallazgos para la toma de decisiones o la construcción de modelos predictivos.
+
+--------------------------------------------------------------------------------------------------
+**Principales Hallazgos**
+
+
+--------------------------------------------------------------------------------------------------
+**¿Cómo ejecutar el código del Proyecto de Aula?**
+
 
 --------------------------------------------------------------------------------------------------
 
