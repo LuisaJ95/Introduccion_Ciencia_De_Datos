@@ -6,7 +6,7 @@ Este repositorio incluye todo el proceso de trabajo de la materia "Introducción
 El objetivo es crear una trazabilidad del proceso de aprendizaje de la materia "Fundamentos en Ciencia de Datos" que permita identificar, registrar y controlar
 cada paso del avance en el desarrollo de las actividades.
 
-Este repositorio tiene las carpetas:
+Este repositorio está organizado con las siguientes carpetas:
 - articulo/ : incluye los informes y el entregable final del proyecto de aula.
 - proyecto_aula/ : contiene los entrgeables establecidos del proyecto de aula.
 - sesiones_practicas/ : está estructurado con el registro de cada sesión práctica trabajada en clase.
