@@ -1,7 +1,7 @@
 # Mi Aprendizaje en Fundamentos en Ciencia de Datos
 # Universidad de Antioquia - Facultad de Ingeniería - Maestría en Ingeniería
 
-Este repositorio incluye todo el proceso de trabajo de la materia "Introducción a la Ciencia de Datos" de mi Maestría en Ingeniería.
+Este repositorio incluye todo el proceso de trabajo de la materia "Introducción a la Ciencia de Datos" en el marco de estudio de la Maestría en Ingeniería.
 
 El objetivo es crear una trazabilidad del proceso de aprendizaje de la materia "Fundamentos en Ciencia de Datos" que permita identificar, registrar y controlar
 cada paso del avance en el desarrollo de las actividades.
@@ -13,8 +13,7 @@ Este repositorio tiene las carpetas:
 - datos/ : se encuentran los datos requeridos para ejecutar los entregables del proyecto de aula
 
 Incluye los procesos de prácticas en clase de cada tema y el Proyecto de Aula: 
-"Análisis exploratorio y procesamiento de data para el Diseño de una cadena de 
-abastecimiento para la reducción del desperdicio de alimentos cárnicos en Colombia, considerando el marco normativo"
+"Análisis del comportamiento e identificación de patrones en el valor de las donaciones de una empresa del sector cárnico mediante técnicas de ciencia de datos"
 
 --------------------------------------------------------------------------------------------------
 
