@@ -29,9 +29,13 @@ Para el respectivo análisis, la data obtenida tiene un histórico desde el año
 
 **Objetivo Proyecto de Aula**
 
-Analizar el comportamiento del valor de las donaciones en una empresa del sector cárnico, identificando patrones asociados a las variables que componen la data histórica desde el 2022, que permitan comprender su dinámica y servir como base para el desarrollo de modelos predictivos.
+Analizar el comportamiento del valor de las donaciones y de la destrucción de alimentos en una empresa del sector cárnico, identificando patrones asociados a las variables que componen la data histórica desde el 2022, que permitan comprender su dinámica y servir como base para el desarrollo de modelos predictivos. Para lograr este objetivo general, se cuenta con cinco objetivos específicos:
+•	Recolectar y depurar la base de datos histórica de donaciones y del desperdicio de alimentos de la empresa del sector cárnico desde el año 2022, garantizando la calidad, consistencia y completitud de la información.
+•	Describir las variables relevantes asociadas al valor de las donaciones y del desperdicio de alimentos, diferenciando entre variables categóricas y numéricas, para comprender su estructura y posibles relaciones.
+•	Aplicar técnicas de análisis exploratorio de datos (EDA) para identificar tendencias, patrones y comportamientos significativos en el valor de las donaciones y del desperdicio de alimentos a lo largo del tiempo.
+•	Analizar la relación entre el valor de las donaciones y del desperdicio de alimentos, y las variables categóricas mediante métodos estadísticos o gráficos que permitan determinar su influencia en el comportamiento general.
+•	Generar visualizaciones y hallazgos interpretativos que faciliten la comprensión del fenómeno y sirvan como insumo para la futura construcción de modelos predictivos.
 
-Este es un primer paso que busca entender la data en su contexto, por medio de herramientas propias de la ciencia de datos. Para posteriormente, con la predicción del valor de las donaciones y con la ayuda de la Investigación de Operaciones, crear un modelo que permita simular escenarios futuros y predecir el dinero que está dejando de percibir la empresa al no implementar políticas de alivios fiscales con la donaciones.
 
 --------------------------------------------------------------------------------------------------
 **Justificación Metodológica**
@@ -45,11 +49,12 @@ Además, al tratarse de un proyecto en el marco de Fundamentos de Ciencia de Dat
 --------------------------------------------------------------------------------------------------
 **Principales Hallazgos**
 
+La implementación de CRISP-DM permitió revelar inconsistencias en la información, como registros de destrucciones con valores negativos y productos con código “0”, lo que resalta la importancia de fortalecer la calidad de los datos. La aplicación de Cramer’s V facilitó la reducción de la dimensión en variables categóricas, mientras que Box-Cox mejoró la distribución de las variables continuas. Pese a las limitaciones derivadas del tamaño y características de la base, se obtuvieron transformaciones valiosas y se identificaron líneas de trabajo futuras, entre ellas evaluar una variable respuesta categórica y aplicar nuevas metodologías que permitan comprender con mayor claridad el comportamiento de la data de destrucciones.
 
 --------------------------------------------------------------------------------------------------
 **¿Cómo ejecutar el código del Proyecto de Aula?**
 
-
+El código para ejecutar se encuentra en la carpeta “proyecto_aula”, compuesta por cinco archivos tipo Jupyter (.ipynb), que se ejecutan en orden (01, 02, 03, 04, 05), se recomienda ejecutarlos en el local con un software como "Visual Studio Code", ya que los datos son muy pesados por su tamaño (944.083 KB)
 --------------------------------------------------------------------------------------------------
 
 Dirigido por:
