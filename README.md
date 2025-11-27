@@ -33,8 +33,8 @@ Analizar el comportamiento del valor de las donaciones y de la destrucción de a
 •	Recolectar y depurar la base de datos histórica de donaciones y del desperdicio de alimentos de la empresa del sector cárnico desde el año 2022, garantizando la calidad, consistencia y completitud de la información.
 •	Describir las variables relevantes asociadas al valor de las donaciones y del desperdicio de alimentos, diferenciando entre variables categóricas y numéricas, para comprender su estructura y posibles relaciones.
 •	Aplicar técnicas de análisis exploratorio de datos (EDA) para identificar tendencias, patrones y comportamientos significativos en el valor de las donaciones y del desperdicio de alimentos a lo largo del tiempo.
-•	Analizar la relación entre el valor de las donaciones y del desperdicio de alimentos, y las variables categóricas mediante métodos estadísticos o gráficos que permitan determinar su influencia en el comportamiento general.
-•	Generar visualizaciones y hallazgos interpretativos que faciliten la comprensión del fenómeno y sirvan como insumo para la futura construcción de modelos predictivos.
+•	Detectar y analizar valores atípicos en la base de datos para mejorar la calidad de la información, reducir sesgos y garantizar mayor confiabilidad en los resultados del procesamiento y modelado posterior.
+•	Estandarizar el conjunto de datos mediante la imputación de valores faltantes, el escalamiento de variables y la aplicación de transformaciones adecuadas, asegurando un preprocesamiento que mejore la interpretabilidad y desempeño de los modelos analíticos posteriores.
 
 
 --------------------------------------------------------------------------------------------------
