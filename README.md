@@ -7,9 +7,13 @@ El objetivo es crear una trazabilidad del proceso de aprendizaje de la materia "
 cada paso del avance en el desarrollo de las actividades.
 
 Este repositorio está organizado con las siguientes carpetas:
+
 - articulo/ : incluye los informes y el entregable final del proyecto de aula.
+  
 - proyecto_aula/ : contiene los entrgeables establecidos del proyecto de aula.
+  
 - sesiones_practicas/ : está estructurado con el registro de cada sesión práctica trabajada en clase.
+  
 - datos/ : se encuentran los datos requeridos para ejecutar los entregables del proyecto de aula
 
 Incluye los procesos de prácticas en clase de cada tema y el Proyecto de Aula: 
@@ -30,11 +34,17 @@ Para el respectivo análisis, la data obtenida tiene un histórico desde el año
 **Objetivo Proyecto de Aula**
 
 Analizar el comportamiento del valor de las donaciones y de la destrucción de alimentos en una empresa del sector cárnico, identificando patrones asociados a las variables que componen la data histórica desde el 2022, que permitan comprender su dinámica y servir como base para el desarrollo de modelos predictivos. Para lograr este objetivo general, se cuenta con cinco objetivos específicos:
+
 •	Recolectar y depurar la base de datos histórica de donaciones y del desperdicio de alimentos de la empresa del sector cárnico desde el año 2022, garantizando la calidad, consistencia y completitud de la información.
+
 •	Describir las variables relevantes asociadas al valor de las donaciones y del desperdicio de alimentos, diferenciando entre variables categóricas y numéricas, para comprender su estructura y posibles relaciones.
+
 •	Aplicar técnicas de análisis exploratorio de datos (EDA) para identificar tendencias, patrones y comportamientos significativos en el valor de las donaciones y del desperdicio de alimentos a lo largo del tiempo.
+
 •	Detectar y analizar valores atípicos en la base de datos para mejorar la calidad de la información, reducir sesgos y garantizar mayor confiabilidad en los resultados del procesamiento y modelado posterior.
+
 •	Estandarizar el conjunto de datos mediante la imputación de valores faltantes, el escalamiento de variables y la aplicación de transformaciones adecuadas, asegurando un preprocesamiento que mejore la interpretabilidad y desempeño de los modelos analíticos posteriores.
+
 
 
 --------------------------------------------------------------------------------------------------
