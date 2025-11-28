@@ -64,7 +64,10 @@ La implementación de CRISP-DM permitió revelar inconsistencias en la informaci
 --------------------------------------------------------------------------------------------------
 **¿Cómo ejecutar el código del Proyecto de Aula?**
 
-El código para ejecutar se encuentra en la carpeta “proyecto_aula”, compuesta por cinco archivos tipo Jupyter (.ipynb), que se ejecutan en orden (01, 02, 03, 04, 05), se recomienda ejecutarlos en el local con un software como "Visual Studio Code", ya que los datos son muy pesados por su tamaño (944.083 KB)
+El código para ejecutar se encuentra en la carpeta “proyecto_aula”, compuesta por cinco archivos tipo Jupyter (.ipynb), que se ejecutan en orden (01, 02, 03, 04, 05), se recomienda ejecutarlos en el local con un software como "Visual Studio Code", ya que los datos son muy pesados por su tamaño (944.083 KB).
+
+La DATA utilizada para correr el código se encuentra en esta CARPETA(https://udeaeduco-my.sharepoint.com/:f:/r/personal/luisa_jimenez1_udea_edu_co/Documents/Data_Proyecto_Final_luisa_jimenez?csf=1&web=1&e=6pccdN), 
+ya que por el peso, no permite subirlo en el repositorio.
 
 
 
